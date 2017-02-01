@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Jan 21 21:09:47 2017
+AI.Lector.ru
 
-@author: re
+Автор: Р.В. Шамин
 """
 
 import matplotlib.pyplot as plt
