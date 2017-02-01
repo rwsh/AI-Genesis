@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """
 AI.Lector.ru
-Автор: Р.В. Шамин
+
+РђРІС‚РѕСЂ: Р .Р’. РЁР°РјРёРЅ
 """
 
 import matplotlib.pyplot as plt
